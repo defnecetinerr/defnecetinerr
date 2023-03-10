@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @defnecetinerr
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently learning ios swift
-- 💞️ I’m looking to collaborate on ...
+- 💻 I’m interested in mobile development
+-  I’m currently learning iOS swift
 - 📫 How to reach me defnecetiner00@gmail.com
 
 <!---
